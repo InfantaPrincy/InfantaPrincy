@@ -1,6 +1,6 @@
 - 👋 Hi there, Here @InfantaPrincy
-- 👀 My interests in Coding, Bioinformatics, Data Science and AI.
-- 🌱 I’m currently learning Neural networks using python with a sample projects.
+- 👀 My interests in Coding, Bioinformatics, CyberSecurity, AWS, Data Science and AI.
+- 🌱 I’m currently learning CyberSecurity with a sample projects.
 - 📫 To reach me out, my email id - atna.joseph20@gmail.com
 
 <!---
