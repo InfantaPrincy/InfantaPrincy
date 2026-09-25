@@ -1,5 +1,5 @@
 - 👋 Hi there, Here @InfantaPrincy
-- 👀 My interests in Coding, Bioinformatics, CyberSecurity, AWS, Data Science and AI.
+- 👀 My interests in Coding, CyberSecurity, AWS, Data Science and AI.
 - 🌱 I’m currently learning CyberSecurity with a sample projects.
 - 📫 To reach me out, my email id - atna.joseph20@gmail.com
 
